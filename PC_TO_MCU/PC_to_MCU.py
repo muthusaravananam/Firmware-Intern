@@ -19,5 +19,5 @@ total_time = t2 - t1
 
 rate = total_bits / total_time
 print("Data transmission rate:", rate, "bps")
-
+print("Data written to MCU")
 ser.close()
