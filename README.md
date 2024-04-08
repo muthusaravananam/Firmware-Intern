@@ -1,4 +1,4 @@
-##FIRMWARE INTERN TASK
+## FIRMWARE INTERN TASK
 
 ## PC to MCU Data Transfer
 pc_to_mcu_process = """
